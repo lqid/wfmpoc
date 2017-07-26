@@ -23,7 +23,7 @@ import com.genesyslab.wfm7.API.service.schedule712.CfgAgentShort;
 
 public class Main extends Application {
 
-    private static String wfmServerHost = "192.168.1.8";
+    private static String wfmServerHost = "192.168.1.50";
     private static String wfmServerPort = "5007";
     private static String appName = "WFMClient";
     private static String userName = "demo";
